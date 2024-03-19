@@ -32,7 +32,7 @@ DEBUG = True
 # settings.py
 
 # ALLOWED_HOSTS = ['13.233.146.103', '127.0.0.1', 'localhost']
-ALLOWED_HOSTS = ["127.0.0.1", ".vercel.app", ".now.sh"]
+ALLOWED_HOSTS = ['.vercel.app', '.now.sh', '127.0.0.1', 'localhost']
 
 CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOW_CREDENTIALS = True
@@ -242,7 +242,8 @@ STATICFILES_DIRS = [
 ]
 print("STATICFILES_DIRS ",STATICFILES_DIRS)
 
-
+MEDIA_URL = "img/"
+MEDIA_ROOT = BASE_DIR/'media'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field

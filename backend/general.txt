@@ -11431,3 +11431,157 @@ django.template.exceptions.TemplateDoesNotExist: index.html
 2024-03-19 11:28:58,244:WARNING - django.request log.py (line 241). Not Found: /Company.jpg
 2024-03-19 11:28:58,245:WARNING - django.request log.py (line 241). Not Found: /Planet2.jpg
 2024-03-19 11:28:58,286:WARNING - django.request log.py (line 241). Not Found: /manifest.json
+2024-03-19 12:06:20,813:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
+2024-03-19 12:06:22,891:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 12:06:22,891:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 12:06:22,893:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 12:06:22,923:WARNING - django.request log.py (line 241). Not Found: /permission_function_url/
+2024-03-19 12:06:22,924:WARNING - django.request log.py (line 241). Not Found: /cara001.png
+2024-03-19 12:06:22,925:WARNING - django.request log.py (line 241). Not Found: /logo_m.png
+2024-03-19 12:06:22,925:WARNING - django.request log.py (line 241). Not Found: /Satellite.png
+2024-03-19 12:06:22,926:WARNING - django.request log.py (line 241). Not Found: /FirstImg01.png
+2024-03-19 12:06:22,927:WARNING - django.request log.py (line 241). Not Found: /logo.png
+2024-03-19 12:06:22,953:WARNING - django.request log.py (line 241). Not Found: /cara002.png
+2024-03-19 12:06:22,954:WARNING - django.request log.py (line 241). Not Found: /MdaSat.png
+2024-03-19 12:06:22,954:WARNING - django.request log.py (line 241). Not Found: /PlanetLb.png
+2024-03-19 12:06:22,955:WARNING - django.request log.py (line 241). Not Found: /Pleides neo.webp
+2024-03-19 12:06:22,956:WARNING - django.request log.py (line 241). Not Found: /cara003.png
+2024-03-19 12:06:22,957:WARNING - django.request log.py (line 241). Not Found: /airbusCard1.jpg
+2024-03-19 12:06:22,988:WARNING - django.request log.py (line 241). Not Found: /Planetcard1.png
+2024-03-19 12:06:22,989:WARNING - django.request log.py (line 241). Not Found: /MDA2.png
+2024-03-19 12:06:22,990:WARNING - django.request log.py (line 241). Not Found: /AgricultureHome1.jpg
+2024-03-19 12:06:22,991:WARNING - django.request log.py (line 241). Not Found: /MDACard1.jpg
+2024-03-19 12:06:22,991:WARNING - django.request log.py (line 241). Not Found: /DefenceBanner1.jpg
+2024-03-19 12:06:22,992:WARNING - django.request log.py (line 241). Not Found: /AirBusCard2.png
+2024-03-19 12:06:23,014:WARNING - django.request log.py (line 241). Not Found: /products.jpg
+2024-03-19 12:06:23,014:WARNING - django.request log.py (line 241). Not Found: /Planet2.jpg
+2024-03-19 12:06:23,015:WARNING - django.request log.py (line 241). Not Found: /Company.jpg
+2024-03-19 12:06:23,016:WARNING - django.request log.py (line 241). Not Found: /MinningBannerImage1.jpg
+2024-03-19 12:06:23,016:WARNING - django.request log.py (line 241). Not Found: /waterbannerImg1.jpg
+2024-03-19 12:06:23,055:WARNING - django.request log.py (line 241). Not Found: /manifest.json
+2024-03-19 12:06:25,358:WARNING - django.request log.py (line 241). Not Found: /logo.png
+2024-03-19 12:06:45,427:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:06:48,858:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:07:25,909:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:07:27,863:WARNING - django.request log.py (line 241). Not Found: /Login
+2024-03-19 12:07:27,919:WARNING - django.request log.py (line 241). Not Found: /favicon.ico
+2024-03-19 12:07:30,173:WARNING - django.request log.py (line 241). Not Found: /Login
+2024-03-19 12:07:32,981:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 12:07:32,984:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 12:07:32,985:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 12:07:32,994:WARNING - django.request log.py (line 241). Not Found: /permission_function_url/
+2024-03-19 12:07:33,004:WARNING - django.request log.py (line 241). Not Found: /logo.png
+2024-03-19 12:07:33,004:WARNING - django.request log.py (line 241). Not Found: /logo_m.png
+2024-03-19 12:07:33,004:WARNING - django.request log.py (line 241). Not Found: /Planetcard1.png
+2024-03-19 12:07:33,004:WARNING - django.request log.py (line 241). Not Found: /waterbannerImg1.jpg
+2024-03-19 12:07:33,004:WARNING - django.request log.py (line 241). Not Found: /airbusCard1.jpg
+2024-03-19 12:07:33,019:WARNING - django.request log.py (line 241). Not Found: /DefenceBanner1.jpg
+2024-03-19 12:07:33,053:WARNING - django.request log.py (line 241). Not Found: /MDA2.png
+2024-03-19 12:07:33,053:WARNING - django.request log.py (line 241). Not Found: /AirBusCard2.png
+2024-03-19 12:07:33,053:WARNING - django.request log.py (line 241). Not Found: /MDACard1.jpg
+2024-03-19 12:07:33,053:WARNING - django.request log.py (line 241). Not Found: /MinningBannerImage1.jpg
+2024-03-19 12:07:33,053:WARNING - django.request log.py (line 241). Not Found: /products.jpg
+2024-03-19 12:07:33,069:WARNING - django.request log.py (line 241). Not Found: /Planet2.jpg
+2024-03-19 12:07:33,086:WARNING - django.request log.py (line 241). Not Found: /AgricultureHome1.jpg
+2024-03-19 12:07:33,086:WARNING - django.request log.py (line 241). Not Found: /Satellite.png
+2024-03-19 12:07:33,086:WARNING - django.request log.py (line 241). Not Found: /cara001.png
+2024-03-19 12:07:33,086:WARNING - django.request log.py (line 241). Not Found: /FirstImg01.png
+2024-03-19 12:07:33,086:WARNING - django.request log.py (line 241). Not Found: /cara002.png
+2024-03-19 12:07:33,086:WARNING - django.request log.py (line 241). Not Found: /PlanetLb.png
+2024-03-19 12:07:33,103:WARNING - django.request log.py (line 241). Not Found: /MdaSat.png
+2024-03-19 12:07:33,103:WARNING - django.request log.py (line 241). Not Found: /cara003.png
+2024-03-19 12:07:33,103:WARNING - django.request log.py (line 241). Not Found: /Pleides neo.webp
+2024-03-19 12:07:33,103:WARNING - django.request log.py (line 241). Not Found: /Company.jpg
+2024-03-19 12:07:33,119:WARNING - django.request log.py (line 241). Not Found: /manifest.json
+2024-03-19 12:07:34,597:WARNING - django.request log.py (line 241). Not Found: /logo.png
+2024-03-19 12:07:52,454:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:03,562:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:04,059:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:04,243:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:04,403:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:04,554:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:04,706:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:04,869:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:05,026:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:05,202:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:05,554:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:05,836:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:07,210:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 12:08:28,896:WARNING - django.request log.py (line 241). Not Found: /Login
+2024-03-19 12:08:28,938:WARNING - django.request log.py (line 241). Not Found: /favicon.ico
+2024-03-19 12:18:45,346:ERROR - django.security.DisallowedHost exception.py (line 124). Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\Palash\mars\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Palash\mars\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\Palash\mars\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\Palash\mars\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+2024-03-19 12:18:45,442:WARNING - django.request log.py (line 241). Bad Request: /api/todos/
+2024-03-19 12:27:58,848:ERROR - django.security.DisallowedHost exception.py (line 124). Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\Palash\mars\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Palash\mars\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\Palash\mars\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\Palash\mars\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+2024-03-19 12:27:58,862:WARNING - django.request log.py (line 241). Bad Request: /api/todos/
+2024-03-19 12:28:00,864:ERROR - django.security.DisallowedHost exception.py (line 124). Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "D:\Palash\mars\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "D:\Palash\mars\lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "D:\Palash\mars\lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+  File "D:\Palash\mars\lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+2024-03-19 12:28:00,880:WARNING - django.request log.py (line 241). Bad Request: /api/todos/
+2024-03-19 13:42:24,712:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
+2024-03-19 13:42:27,494:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 13:42:27,498:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 13:42:27,500:WARNING - django.request log.py (line 241). Bad Request: /api/token/refresh/
+2024-03-19 13:42:27,528:WARNING - django.request log.py (line 241). Not Found: /logo.png
+2024-03-19 13:42:27,529:WARNING - django.request log.py (line 241). Not Found: /permission_function_url/
+2024-03-19 13:42:27,529:WARNING - django.request log.py (line 241). Not Found: /FirstImg01.png
+2024-03-19 13:42:27,530:WARNING - django.request log.py (line 241). Not Found: /logo_m.png
+2024-03-19 13:42:27,531:WARNING - django.request log.py (line 241). Not Found: /Satellite.png
+2024-03-19 13:42:27,532:WARNING - django.request log.py (line 241). Not Found: /cara001.png
+2024-03-19 13:42:27,559:WARNING - django.request log.py (line 241). Not Found: /cara002.png
+2024-03-19 13:42:27,560:WARNING - django.request log.py (line 241). Not Found: /PlanetLb.png
+2024-03-19 13:42:27,560:WARNING - django.request log.py (line 241). Not Found: /MdaSat.png
+2024-03-19 13:42:27,560:WARNING - django.request log.py (line 241). Not Found: /Pleides neo.webp
+2024-03-19 13:42:27,560:WARNING - django.request log.py (line 241). Not Found: /airbusCard1.jpg
+2024-03-19 13:42:27,560:WARNING - django.request log.py (line 241). Not Found: /cara003.png
+2024-03-19 13:42:27,592:WARNING - django.request log.py (line 241). Not Found: /MDACard1.jpg
+2024-03-19 13:42:27,593:WARNING - django.request log.py (line 241). Not Found: /Planetcard1.png
+2024-03-19 13:42:27,593:WARNING - django.request log.py (line 241). Not Found: /MinningBannerImage1.jpg
+2024-03-19 13:42:27,594:WARNING - django.request log.py (line 241). Not Found: /AgricultureHome1.jpg
+2024-03-19 13:42:27,595:WARNING - django.request log.py (line 241). Not Found: /AirBusCard2.png
+2024-03-19 13:42:27,596:WARNING - django.request log.py (line 241). Not Found: /waterbannerImg1.jpg
+2024-03-19 13:42:27,617:WARNING - django.request log.py (line 241). Not Found: /products.jpg
+2024-03-19 13:42:27,618:WARNING - django.request log.py (line 241). Not Found: /DefenceBanner1.jpg
+2024-03-19 13:42:27,619:WARNING - django.request log.py (line 241). Not Found: /Planet2.jpg
+2024-03-19 13:42:27,619:WARNING - django.request log.py (line 241). Not Found: /Company.jpg
+2024-03-19 13:42:27,621:WARNING - django.request log.py (line 241). Not Found: /MDA2.png
+2024-03-19 13:42:27,671:WARNING - django.request log.py (line 241). Not Found: /manifest.json
+2024-03-19 13:42:33,923:WARNING - django.request log.py (line 241). Not Found: /logo.png
+2024-03-19 13:42:56,741:WARNING - django.request log.py (line 241). Not Found: /login_user/
+2024-03-19 15:15:33,718:INFO - django.utils.autoreload autoreload.py (line 266). D:\Rimanshu\depoly\deploy\backend\backend\settings.py changed, reloading.
+2024-03-19 15:15:34,420:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
+2024-03-19 15:15:56,381:INFO - django.utils.autoreload autoreload.py (line 266). D:\Rimanshu\depoly\deploy\backend\backend\urls.py changed, reloading.
+2024-03-19 15:15:57,071:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
+2024-03-19 15:16:02,975:INFO - django.utils.autoreload autoreload.py (line 266). D:\Rimanshu\depoly\deploy\backend\backend\urls.py changed, reloading.
+2024-03-19 15:16:03,642:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
+2024-03-19 15:16:05,349:INFO - django.utils.autoreload autoreload.py (line 266). D:\Rimanshu\depoly\deploy\backend\backend\urls.py changed, reloading.
+2024-03-19 15:16:06,018:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
+2024-03-19 15:16:35,260:INFO - django.utils.autoreload autoreload.py (line 266). D:\Rimanshu\depoly\deploy\backend\backend\settings.py changed, reloading.
+2024-03-19 15:16:35,935:INFO - django.utils.autoreload autoreload.py (line 668). Watching for file changes with StatReloader
