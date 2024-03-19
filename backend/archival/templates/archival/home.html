@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate XML</title>
+</head>
+<body>
+    <h1>Generate XML</h1>
+    <form id="generateXmlForm">
+        <label for="inputFolderPath">Input Folder Path:</label><br>
+        <input type="text" id="inputFolderPath" name="Inputfolderpath" required><br><br>
+        <label for="outputXmlFilePath">Output XML File Path:</label><br>
+        <input type="text" id="outputXmlFilePath" name="Outputxmlfilepath" required><br><br>
+        <button type="submit">Generate XML</button>
+    </form>
+
+    <script>
+        document.getElementById("generateXmlForm").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent the form from submitting normally
+            
+            var form = event.target;
+            var formData = new FormData(form);
+            
+            fetch('generate-xml/', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.hasOwnProperty('message')) {
+                    alert(data.message); // Show the message received from the backend
+                    // Clear the input fields if needed
+                    document.getElementById('inputFolderPath').value = '';
+                    document.getElementById('outputXmlFilePath').value = '';
+                } else if (data.hasOwnProperty('error')) {
+                    alert('Error: ' + data.error);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        });
+    </script>
+</body>
+</html>
